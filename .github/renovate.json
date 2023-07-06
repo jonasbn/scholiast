@@ -3,5 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "enabledManagers": ["pre-commit", "dockerfile", "cpanfile"]
+  "enabledManagers": ["pre-commit", "cpanfile"]
 }
