@@ -1,6 +1,6 @@
 # REF: https://docs.docker.com/engine/reference/builder/
 # REF: https://hub.docker.com/_/perl
-FROM perl:5.38.0
+FROM perl:5.39.3
 
 # We point to the original repository for the image
 LABEL org.opencontainers.image.source https://github.com/jonasbn/scholiast
